@@ -26,5 +26,5 @@ MAX_MULTI_REPORTS = 25
 MAX_DELAY_SECONDS = 10
 
 # Telegram API (for real reporting)
-TELEGRAM_API_ID = os.getenv("31008458", "")
-TELEGRAM_API_HASH = os.getenv("1503e7297c1617b9d662a875727944cc", "")
+TELEGRAM_API_ID = os.getenv("20960238", "")
+TELEGRAM_API_HASH = os.getenv("9fa45a28c1f2ee7960e3e23d0f57c720", "")
